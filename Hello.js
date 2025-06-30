@@ -12,3 +12,6 @@ const createHelloWorld = () => {
         return "Hello World";
     }
 }
+
+
+//challenges did not know the syntax for creating a function that returns another function in js
